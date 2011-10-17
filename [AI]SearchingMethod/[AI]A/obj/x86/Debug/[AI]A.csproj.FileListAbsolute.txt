@@ -1,0 +1,5 @@
+c:\users\neyugnoaht\documents\visual studio 2010\Projects\[AI]SearchingMethod\[AI]A\bin\Debug\[AI]A.exe
+c:\users\neyugnoaht\documents\visual studio 2010\Projects\[AI]SearchingMethod\[AI]A\bin\Debug\[AI]A.pdb
+c:\users\neyugnoaht\documents\visual studio 2010\Projects\[AI]SearchingMethod\[AI]A\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\neyugnoaht\documents\visual studio 2010\Projects\[AI]SearchingMethod\[AI]A\obj\x86\Debug\[AI]A.exe
+c:\users\neyugnoaht\documents\visual studio 2010\Projects\[AI]SearchingMethod\[AI]A\obj\x86\Debug\[AI]A.pdb
